@@ -4,8 +4,14 @@
   "version": "1.0",
   "description": "Adds a persistent text box to the bottom of every webpage.",
   "permissions": [
-    "storage", 
+    "storage",
     "activeTab"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [ "tinhoc.txt" ],
+      "matches": [ "<all_urls>" ]
+    }
   ],
   "action": {
     "default_popup": "popup.html"

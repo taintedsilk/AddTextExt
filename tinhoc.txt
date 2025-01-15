@@ -1,0 +1,431 @@
+BÀI 1: THÔNG TIN VÀ XỬ LÍ THÔNG TIN
+1.	Tin học là gì?  Khoa học xử lý thông tin tự động dựa trên máy tính điện tử
+2.	Thông tin là gì? Là tất cả những gì mang lại cho con người hiểu biết.-.3
+3.	Cùng một tín hiệu trong những hoàn cảnh khác nhau có thể chuyển tải các thông tin khác nhau  Đúng
+4.	Bảng chữ cái của mã hóa lục thập phân cần bao nhiêu kí tự khác nhau? 60.
+5.	Điều nào sai khi nói về xử lý thông tin là Tăng thêm lượng tin để tăng hiểu biết
+6.	Chọn định nghĩa chính xác nhất về thông tin  Là tất cả những gì mang lại cho con người hiểu biết
+7.	Điều nào đúng trong các khẳng định sau: Thông tin rời rạc có thể mã hoá được bằng bộ chữ hữu hạn
+8.	Định nghĩa nào xác đáng nhất về Công nghệ thông tin  Là tập hợp các phương pháp khoa học, công nghệ và công cụ kỹ thuật hiện đại để sản xuất, truyền, thu thập, xử lý, lưu trữ và trao đổi thông tin số.
+9.	Chọn câu đúng?  Ảnh bit map lưu trữ từng điểm ảnh.
+10.	Trong sản xuất phần cứng, để phù hợp với suy nghĩ của người tiêu dùng, nhà sản xuất định nghĩa theo hệ thập phân, 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB. Như vậy nếu một nhà sản xuất RAM ghi trên vỏ là 16 GB thì thực tế có bao nhiêu GB?  14.90.
+11.	Ngoài định nghĩa đúng “dữ liệu là hình thức thể hiện của thông tin trong mục đích lưu trữ, truyền và xử lý thông tin”, còn có các định nghĩa khác nữa. Trong các định nghĩa sau đây, xét về bản chất định nghĩa nào có thể chấp nhận được về dữ liệu Là đối tượng xử lý của máy tính
+12.	Số nhị phân là gì? Các số 1 và 0.
+13.	Đơn vị đo lượng thông tin là  Bit
+14.	Chữ viết tắt MB thường gặp trong các tài liệu về máy tính có nghĩa là gì:  là đơn vị đo khả năng lưu trữ
+15.	1 byte bằng:  8 bit
+16.	Đơn vị nào tương đương với 1024 MB? GB.
+17.	Định nghĩa nào đúng nhất về đơn vị Byte Là lượng tin 8 bít
+18.	Chọn phương án đúng nhất khi nói về bit: : Là đơn vị thông tin
+1024 byte
+19.	1 kilobyte bằng: 1024 byte
+20.	4 KB bằng bao nhiêu bit?  32768.
+21.	Chọn câu đúng và đầy đủ nhất trong định nghĩa về byte sau đây  Là một đại lượng đo thông tin bằng 8 bit
+22.	Trong những điều sau đây nói về về Kilobyte (KB), điều nào đúng  Đơn vị đo lượng tin lớn hơn 1000 byte
+23.	Nếu dùng mã có độ dài 3 kí tự trong mã hóa bát phân thì có thể tạo ra bao nhiêu mã khác nhau?  512.
+24.	Dữ liệu là Là hình thức thể hiện của thông tin trong mục đích lưu trữ, truyền và xử lý thông tin
+25.	Chọn ra đặc điểm đúng cho thông tin liên tục.  Cả "Lượng giá trị của thông tin liên tục là vô hạn." và "Có thể dùng mã hóa rời rạc để biểu diễn gần đúng thông tin liên tục."
+26.	Trong sản xuất phần cứng, để phù hợp với suy nghĩ của người tiêu dùng, nhà sản xuất định nghĩa theo hệ thập phân, 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB. Như vậy nếu một nhà sản xuất RAM ghi trên vỏ là 8 GB thì thực tế có bao nhiêu GB?  7.45.
+27.	Có một tập hợp gồm 500 đối tượng. Trong mã hoá nhị phân cần bao nhiêu bít để có thể mã hoá được các đối tượng của tập hợp này 9
+28.	Phương án trả lời nào đúng nhất cho giá mang tin là Tất cả các phương tiện có thể lưu trữ thông tin
+29.	Điện áp là thông tin  Liên tục
+30.	Độ dài là thông tin  Liên tục
+31.	Danh sách học sinh của một lớp là thông tin Rời rạc
+32.	Có người đưa ra các lý do sử dụng hệ đếm nhị phân với máy tính. Trong các lý do sau, lý do nào kém thuyết phục nhất  Hệ đếm cơ số 2 là hệ đếm có cơ số nhỏ nhất
+33.	Một bit là  Là đơn vị thông tin
+34.	Một bức ảnh có kích thước 1920 x 1080 điểm ảnh, mỗi điểm ảnh cần dùng 24 bit để biểu diễn. Giả sử bức ảnh đó được nén bằng thuật toán JPEG giúp giảm dung lượng đi 10 lần. Hỏi ảnh sau khi nén có dung lượng khoảng bao nhiêu KB? Câu trả lời đúng là: 622.
+35.	Một tệp u dùng mã có độ dài 3 kí tự trong mã hóa bát phân thì có thể tạo ra bao nhiêu mã khác nhađịnh dạng MP3, nó giảm kích thước đi 11 lần. Hỏi kích thước của tệp tin nén khoảng bao nhiêu KB?  186.
+36.	Thông tin liên tục có thể mã hoá bằng một bảng chữ hữu hạn được không: Không
+37.	Trong sản xuất phần cứng, để phù hợp với suy nghĩ của người tiêu dùng, nhà sản xuất định nghĩa theo hệ thập phân, 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB. Như vậy nếu một nhà sản xuất ổ đĩa cứng ghi trên vỏ là 1 TB thì thực tế có bao nhiêu GB?  931.32.
+38.	Trong định nghĩa CNTT trong bộ luật CNTT của Việt nam có nói: "Công nghệ thông tin là tập hợp các các phương pháp khoa học, công nghệ và công cụ kỹ thuật hiện đại để sản xuất, truyền, thu thập, xử lý, lưu trữ và trao đổi thông tin số.". Bạn hiểu thế nào là thông tin số  Là các thông tin được mã hoá dưới dạng số
+39.	Người và máy tính giao tiếp thông qua: Bàn phím và màn hình
+Hệ điều hành
+40.	Nhiều tín hiệu khác nhau có thể chuyển tải một nội dung thông tin Đúng
+41.	Để mã hóa 16,7 triệu màu rời rạc thì cần dùng ít nhất bao nhiêu bit? 24.
+42.	Chọn câu chính xác nhất trong định nghĩa về bit sau đây  Là đơn vị thông tin có thể thể hiện qua một chữ số nhị phân trong một mã hoá nhị phân
+43.	Để mã hóa một bức ảnh có 256 điểm ảnh cần dùng ít nhất bao nhiêu kilobyte biết mỗi điểm ảnh cần dùng 16 byte?  4 .
+44.	Độ phân giải của màn hình thể hiện bởi: Số điểm ảnh có thể thể hiện được
+45.	Định nghĩa nào đúng nhất về dữ liệu:  Là đối tượng xử lý của máy tính
+Là hình thức thể hiện của thông tin trong mục đích lưu trữ, truyền và xử lý thông tin
+46.	Nếu dùng mã có độ dài 5 kí tự trong mã hóa nhị phân thì có thể tạo ra bao nhiêu mã khác nhau? 32
+47.	Có thể thể hiện thông tin bằng nhiều hình thức khác nhau hay không  Có
+48.	Cần bao nhiêu bít để mã hoá các trạng thái của một con xúc sắc 6 mặt  3
+49.	Chọn ra định nghĩa đúng cho tín hiệu. Tín hiệu là hình thức vật lý của thông tin.
+
+BÀI 2: MÁY TÍNH ĐIỆN TỬ
+1.	Điều nào là sai khi nói về chức năng của CPU  Trao đổi dữ liệu trực tiếp với bộ nhớ ngoài
+Xuất nhập dữ liêu với các thiết bị ngoại vi
+2.	Chọn phát biểu sai về CPU trong các phát biểu sau  Là hộp máy của máy vi tính, trong đó có bộ số học - lôgic và bộ nhớ.
+3.	Chọn câu trả lời chính xác nhất về chức năng của CPU Điều khiển, phối hợp các thiết bị để máy tính thực hiện đúng chương trình đã định
+4.	Bộ nhớ cache trong CPU dùng để Nạp trước lên cache nhiều lệnh lên giúp cho việc tính toán nhanh hơn, giảm thời gian truy nhập bộ nhớ do có thể truy nhập trực tiếp các lệnh trên cache.
+5.	Một sinh viên đưa ra những điểm tương đồng giữa một máy vi tính (mico computer) với một máy tính bỏ túi (calculator). Điều nào sai Đều có CPU
+6.	CPU là  Central Processing Unit.
+7.	Trong các lý do dùng bộ nhớ ROM sau đây, lý do nào xác đáng nhất Nhớ được thông tin không cần nguồn điện và không ghi lại được bằng cách ghi thông thường nên thường được dùng ghi các chương trình điền khiển và các tham số hoạt động cơ sở của máy.
+8.	Thông số "Core i3, socket 775" là của thiết bị nào? CPU.
+9.	Loại phím nào trên bàn phím mà tác dụng của nó được xác định tuỳ thuộc vào các phần mềm cụ thể: Phím chức năng
+10.	Bạn đã cài đặt một bộ xử lý mới có tốc độ đồng hồ cao hơn vào máy của bạn. Điều này có thể có kết quả gì  Máy tính của bạn sẽ chạy nhanh hơn
+11.	Thiết bị sử dụng pin để cung cấp điện liên tục cho hệ thống ngay cả khi điện lưới bị cắt được gọi là? UPS
+12.	Trong những năm gần đây, xuất hiện bộ nhớ flash cắm rời theo đường USB. Đây là bộ nhớ bán dẫn nhưng vẫn được coi là bộ nhớ ngoài. Theo bạn thì lý do nào sau đây là xác đáng nhất.  Không tương tác trực tiếp với bộ xử lý và nội dung không bị xoá khi không có nguồn
+13.	Lý do đúng đắn nhất phân biệt thiết bị thuộc khu vực ngoại vi và thiết bị thuộc khu vực trung tâm của máy tính là: Thiết bị ở khu vực trung tâm được dùng để xử lý dữ liệu còn thiết bị ở khu vực ngoại vi là trao đổi dữ liệu giữa máy tính và môi trường tính toán (còn thiết bị ở khu vực trung tâm được dùng để xử lý dữ liệu)
+
+14.	Ổ đĩa cứng là thiết bị Cả vào và ra
+15.	Ổ cứng là Thiết bị lưu trữ ngoài.
+16.	Cách trả lời đúng nhất về nguyên lý điều khiển theo chương trình::  Máy tính chỉ hoạt động theo các chỉ dẫn của chương trình được nạp vào trong bộ nhớ
+17.	Bộ nhớ được chia thành 2 loại là những loại nào? Bộ nhớ trong và bộ nhớ ngoài.
+18.	Bộ nhớ trong là thiết bị Câu trả lời đúng là: Không phải thiết bị ngoại vi 
+19.	CPU là thiết bị Không phải thiết bị ngoại vi
+20.	Màn hình cảm ứng là thiết bị gì của máy tính? Thiết bị vào và ra
+21.	Thông số "7200 rpm" là của thiết bị nào? HDD.
+22.	Cổng nào sau đây là cổng kết nối giữa màn hình và máy tính?  VGA
+23.	Bộ nhớ ROM được dùng để Ghi nhớ chương trình và dữ liệu sẵn sàng để làm việc mà không phải nạp lại
+24.	Trên đĩa từ, các bít được thể hiện bằng các vùng có chiều từ thông khác nhau, một chiều cho bít 0, chiều ngược lại cho bit 1. Điều đó đúng hay sai  Đúng
+25.	Đâu là thứ tự sắp xếp đúng tốc độ truy cập tăng dần của các bộ nhớ?  Flash USB, Ổ đĩa cứng, RAM, CPU Cache.
+26.	Máy in là thiết bị: Ra
+27.	Trong các thiết bị sau, thiết bị nào có thời gian truy xuất dữ liệu chậm nhất  Đĩa mềm
+28.	Modem là thiết bị  Cả vào và ra
+29.	Ba thiết bị đầu vào phổ biến gồm những gì? Bàn phím, chuột, Microphone.
+30.	Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 2.0 là 480 Mbps.
+31.	 Màn hình là thiết bị loại nào: Ra
+32.	Chuột là thiết bị  Vào
+33.	Cách trả lời đúng nhất về nguyên lý truy nhập theo địa chỉ:  Chương trình chỉ định dữ liệu thông qua địa chỉ của dữ liệu trong bộ nhớ chứ không theo giá trị của dữ liệu
+34.	Khi bật máy tính, thiết bị nào sau đây được dùng để lưu trữ các chương trình ban đầu phục vụ cho việc khởi động máy?: ROM
+35.	So sánh những một máy tính điện tử (computer) với một máy tính cầm tay dùng để tính các phép tính số học cộng trừ nhân chia (calculator), trừ những điểm khác nhau như khả năng thực hiện chương trình hay kích thước thì có nhiều điểm mà một người nghĩ là giống nhau. Điều nào sai Câu trả lời đúng là: Cùng có bộ điều khiển
+36.	Trong thứ tự kiểu little-endian, byte có ý nghĩa thấp hơn được đặt trước byte có ý nghĩa cao hơn, ví dụ số thập lục phân 0x1234 có thứ tự lưu 2 byte là [0x34, 0x12]. Hỏi trạng thái của các bit khi lưu từ nhị phân 1010.0111.1111.0001 là? 1111.0001.1010.0111.
+37.	Câu trả lời đúng nhất cho chức năng của bộ nhớ RAM:  Ghi nhớ dữ liệu và chương trình trong thời gian máy làm việc
+38.	Thiết bị nào sau đây là phương tiện lưu trữ quang học? DVD-R
+39.	Loại máy tính nào thường đắt nhất  Máy chủ
+40.	Cái gì của ô nhớ có thể thay đổi được? Nội dung.
+41.	Chức năng của đồng hồ (clock) là gì? Tạo các xung điện áp chính xác, đều đặn để sinh các tín hiệu cơ bản để điều chế thông tin và đồng bộ hóa các thành phần của máy tính.
+42.	Trong lĩnh vực máy tính, chữ viết tắt “MB” thường được dùng để đo lường giá trị gì? Khả năng lưu trữ.
+43.	Con số 3GB trong hệ thống máy tính có nghĩa là: Bộ nhớ RAM hoặc ổ đĩa cứng có dung lượng là 3GB.
+44.	Tốc độ đồng hồ của máy tính đuợc tính theo  hertz và các bội của nó
+45.	Điều nào là nguyên lý Von Neumann  Dữ liệu được xác định qua địa chỉ trong bộ nhớ và để xử lý máy tính được điều khiển theo chương trình nạp vào trong bộ nhớ
+46.	RAM là viết tắt của Random Access Memory.
+47.	.  Vật nào không phải thiết bị vào của máy tính? Màn hình không cảm ứng.
+48.	Chọn câu trả lời đúng nhất: Đĩa cứng/USB là: Thiết bị lưu trữ ngoài
+49.	Đọc các thông số cấu hình của một máy tính thông thường: 2GHz - 20GB - 256MB, bạn cho biết con số 256MB chỉ điều gì Chỉ dung lượng của bộ nhớ truy cập ngẫu nhiên RAM
+50.	Con số 20GB trong hệ thống máy tính có nghĩa là  Ổ đĩa cứng có dung lượng là 20GB.
+51.	Nếu sắp theo thứ tự từ khả năng lưu trữ từ cao đến thấp, bạn chọn phương án nào trong số các phương án sau:  Đĩa cứng - đĩa DVD - đĩa CD - đĩa mềm
+52.	Các sinh viên  phát biểu: nguyên lý Von Neumann nói rằng
+Sv1 : Mọi dữ liệu (chữ, số, âm thanh, hình ảnh ...) đều phải được mã hoá dưới dạng nhị phân
+Sv2 : Máy tính phải có thiết bị điều khiển 
+Sv3 : Máy tính hoạt động theo chương trình nạp sẵn trong bộ nhớ 
+Sv4 : Máy tính truy nhập dữ liệu theo địa chỉ
+Các phát biểu nào đúng?
+Sv3 và Sv4 
+53.	Modem là thiết bị dùng để: : Chuyển đổi tín hiệu số của máy tính sang dạng tín hiệu tương tự để truyền được trên đường điện thoại.
+54.	Khi mất điện đột ngột, dữ liệu lưu trữ trong thiết bị nào dưới đây sẽ mất?: RAM
+55.	Các phép toán số học thường liên quan đến 3 toán hạng (ví dụ tính x = y +z). Trả lời câu hỏi tại sao người ta không chế tạo loại máy tính có cơ cấu lệnh 3 địa chỉ, có những câu trả lời như sau. Câu trả lời nào không xác đáng  Vì tương tác cũng không nhanh hơn, đằng nào cũng phải tải dữ liệu lên các thanh ghi, dù có nhiều hơn thành phần địa chỉ thì vẫn phải đọc dữ liệu lần lượt nên chính cách dùng một địa chỉ lại tối ưu hơn do tận dụng được kết quả cuối cùng đặt trong thanh ghi và thực hiện đúng số bước càn thiết đối với mỗi lệnh.
+56.	Trong những tình huống nào sau đây, máy tính thực thi công việc tốt hơn con người?  Khi thực hiện một phép toán phức tạp.
+57.	Đơn vị đo độ sáng của thiết bị máy chiếu là:  Lumens
+58.	Loại phím nào trên bàn phím mà chức năng của nó được xác định tùy thuộc vào các phần mềm cụ thể? : Phím chức năng.
+59.	Đâu là thiết bị nhập dữ liệu? Máy quét (scan) và đầu đọc mã vạch.
+60.	Các bản mạch cắm qua các khe cắm mở rộng có phải là thiết bị vào hoặc ra hay không  Còn tuỳ từng trường hợp cụ thể
+61.	Ở siêu thị người ta dùng đầu đọc mã vạch để nhận mã hàng hoá. Đó có phải là thiết bị vào của máy tính hay không Có
+62.	Đĩa cứng được gọi là bộ nhớ ngoài truy nhập trực tiếp (direct access) vì lý do nào  Có thể tính trước địa chỉ vùng dữ liệu cần đọc để đặt đầu đọc (đầu từ) trực tiếp vào vùng dữ liệu, vì thế không phải duyệt qua các vùng dữ liệu đứng trước để đi tới vùng cần đọc
+
+
+63.	Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình hiện ra các thông báo kiểm tra bộ nhớ tốt, sau đó máy không làm gì nữa. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Điều gì có khả năng nhất:  Máy bị virus hay hỏng đĩa khởi động
+64.	Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình tối om, không nghe thấy tiếng quạt làm nguội máy, không nghe thấy bất cứ tiếng cảnh báo nào. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Đèn trong phòng vẫn sáng. Điều gì có khả năng nhất Máy không cắm điện hay hỏng nguồn
+65.	Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình tối om, không nghe thấy tiếng quạt làm nguội máy. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Đèn trong phòng vẫn sáng. Điều gì có khả năng nhất Máy không cắm điện
+66.	Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình hiện ra các thông báo kiểm tra bộ nhớ tốt, sau đó máy không làm gì nữa. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Điều gì có khả năng nhất:  Máy bị virus hay hỏng đĩa khởi động
+67.	Pipeline là kiến trúc cho phép  Song song hoá các công đoạn xử lý của vài lệnh đồng thời
+
+
+68.	Sau một thời gian sử dụng máy tính, bạn cảm thấy máy tính chạy chậm hơn nhiều, đặc biệt khi mở nhiều chương trình ứng dụng một lúc. Nguyên nhân nào dưới đây là có khả năng cao nhất  Không gian trống trong đĩa cứng quá ít
+69.	Có thể ghi vào bộ nhớ EPROM được không Không thể ghi được bằng máy tính, có thể ghi bằng các phương tiện khác
+70.	Thiết bị lưu trữ nào sau đây có thời gian truy cập nhanh nhất  đĩa cứng
+71.	Các sinh viên tranh luận về lý do dùng bộ nhớ ngoài
+Ý kiến 1. Khi khối lượng dữ liệu lớn
+Ý kiến 2. Khi phải lưu trữ lâu dài 
+Ý kiến 3. Khi không cần truy xuất dữ liệu nhanh
+Ý kiến 4. Khi ít tiền, không thể mua RAM nhiều mà bộ nhớ ngoài rẻ hơn RAM rất nhiều tính theo khối lượng lưu trữ
+Theo bạn các ý kiến  nào xác đáng nhất
+ Ý kiến 1 và ý kiến 2
+72.	Bàn phím là thiết bị Câu trả lời đúng là: Vào
+73.	Có thể ghi vào bộ nhớ ROM được không Câu trả lời đúng là: Có một số loại ROM ghi được bằng các phương tiện chuyên dụng 
+74.	Màn hình máy tính (màn hình không cảm ứng) là thiết bị Câu trả lời đúng là: Ra
+75.	RAM thuộc khối thiết bị: Câu trả lời đúng là: Memory (bộ nhớ). 
+
+BÀI 3: CƠ SỞ SỐ HỌC VÀ LOGIC CỦA MTĐT
+1.	Cho phép toán A xác định như sau 0 A 0 = 0, 1 A 0 = 0, 0 A 1 = 1, 1 A 1 = 0, hỏi A có thể biểu diễn qua phép hội (AND) ^ và phép phủ định ¬ (NOT) như thế nào? a A b = (¬a) ^ b. 
+2.	Cho phép toán A xác định như sau 0 A 0 = 1, 1 A 0 = 0, 0 A 1 = 1, 1 A 1 = 0, hỏi A có thể biểu diễn qua phép hội (AND) ^ và phép phủ định ¬ (NOT) như thế nào?a A b = (¬a)^(¬b).
+3.	Cho phép toán A xác định như sau 0 A 0 = 1, 1 A 0 = 1, 0 A 1 = 1, 1 A 1 = 0, hỏi kết quả của phép tính 0101 A 1001 bằng bao nhiêu? Câu trả lời đúng là: 1110
+4.	Cho phép toán A xác định như sau 0 A 0 = 0, 1 A 0 = 1, 0 A 1 = 1, 1 A 1 = 0, hỏi kết quả của phép tính 0101 A 1010 bằng bao nhiêu? Câu trả lời đúng là: 1111.
+5.	Kí hiệu ^ là phép nhân logic. Kết quả nào sai: 1 ^ 1 = 0  
+6.	Kết quả nào sai đối với phép toán cộng Logic V: 0 V 0 = 1 
+7.	Đặc điểm nào đúng cho biểu diễn số dấu phẩy tĩnh? Là "Độ rộng (số bít) cố định." và "Số bít cho phần nguyên và phẩn lẻ cố định."  
+8.	Kết quả nào đúng khi đổi 3579 từ 10 sang 16 DFB 
+9.	Kết quả nào đúng khi đổi B9D4 từ hệ 16 sang hệ 10 47572  
+10.	Kết quả nào là đúng khi đổi số hệ hệ thập phân 675 ra Hexa (16) 2A3
+11.	Kết quả nào đúng khi đổi 2468 từ 10 sang 16: 9A4  
+12.	Kết quả nào đúng khi đổi 963 từ 10 sang 16 Câu trả lời đúng là: 3C3 
+13.	Kết quả nào đúng khi đổi ABC từ hệ 16 sang hệ 10 Câu trả lời đúng là: 2748
+14.	Kết quả nào là đúng khi đổi số Hexa 2A3 ra hệ thập phân: 675 
+15.	Kết quả nào đúng khi đổi 1357 từ hệ 16 sang hệ 10 4951
+16.	
+17.	Kết quả nào đúng khi đổi 101000101100 từ hệ 2 sang 16 A2C
+18.	Kết quả nào đúng khi đổi 100001001 từ hệ 2 sang 10: 265 
+19.	Biểu diễn thập lục phân của số nhị phân 111100100001111 là gì? 790F
+20.	Kết quả phép nhân hai số nhị phân 1100 x 100001 đổi sang hệ đếm cơ số 16 là bao nhiêu: 18C
+21.	Kết quả nào là đúng khi đổi số nhị phân 101011 sang số thập phân 43
+22.	Biểu diễn bát phân của số nhị phân 1100001001 là gì? 1411.
+23.	Kết quả nào đúng khi đổi 1111000001 từ hệ 2 sang 16 3C1
+24.	Biểu diễn hệ 16 của số nhị phân 10011011110 là: 4DE
+25.	Biểu diễn số nhị phân 1011 0111101 trong hệ 16 là: 5BD 
+26.	Kết quả nào đúng khi đổi 111011000101 từ hệ 2 sang 10: 3781 
+27.	Kết quả nào là đúng khi đổi số nhị phân 10011011 ra hệ thập phân 155
+28.	Kết quả nào đúng khi đổi 100111010 từ hệ 2 sang 10: 314  
+29.	Kết quả nào là đúng khi đổi số nhị phân 1011011.011 ra hệ Hexa (16) 5B.6
+30.	Kết quả nào là đúng khi đổi số thập phân 0.125 ra hệ nhị phân lấy đến 4 chữ số lẻ 0.0010 
+31.	Kết quả nào là đúng khi đổi số thập phân 0.423 ra hệ nhị phân lấy đến 6 chữ số lẻ: 0.011011
+32.	Số 13 có biểu diễn nhị phân là gì? 1101.  
+33.	Biểu diễn nhị phân của số thập phân 123 là: 1111011
+34.	Kết quả nào đúng khi đổi 314 từ hệ đếm cơ số 10 sang hệ đếm cơ số 2 100111010
+35.	Kết quả nào là đúng khi đổi số thập phân 87 ra hệ nhị phân 1010111
+36.	Kết quả nào là đúng khi đổi số Hexa FA.32 ra hệ nhị phân 11111010.0011001
+37.	Đổi số 12.125 từ hệ thập phân sang hệ nhị phân. 1100.001
+38.	Kết quả nào đúng khi đổi 3781 từ hệ đếm cơ số 10 sang hệ đếm cơ số 2 111011000101  
+39.	Kết quả nào đúng khi đối 3B25 từ hệ 16 sang hệ 2 Câu trả lời đúng là: 11101100100101   
+40.	Kết quả nào đúng khi đổi 265 từ hệ đếm cơ số 10 sang hệ đếm cơ số 2 100001001
+41.	Kết quả nào là đúng khi đổi số thập phân 59 ra hệ nhị phân 111011
+42.	Biểu diễn nào là biểu diễn đúng của số 7E9 trong hệ nhị phân 11111101001
+43.	Kết quả nào đúng khi đối C91F từ hệ 16 sang hệ 2 1100100100011111
+44.	Chọn câu trả lời đúng và đầy đủ nhất về dạng nhị phân của số thập phân 0.65 là (nhóm số đặt trong hai dấu ngoặc đơn là nhóm tuần hoàn vô hạn): 0.10(1001)  
+131.  Cột nào là kết quả của phép nhân logic x và y Câu trả lời đúng là: Cột A
+134.  Cột nào là kết quả của phép cộng logic Câu trả lời đúng là: Cột B  
+Trong phép toán cộng theo module 2 kí hiệu qua dấu   biểu thức nào sai  1  0 = 0
+156.  Có bao nhiêu hàm đại số logic hai ngôi? Câu trả lời đúng là: 16. 
+158.  Các sinh viên tranh luận:  1. Sv1: Một mạch logic bất kỳ có thể được xây dựng bằng cách lắp ghép các mạch logic (cổng) cơ bản là bộ đảo (cổng NOT), cổng AND, cổng OR; 2. Sv2: Có thể bớt đi một trong 3 cổng trên vẫn có thể xây dựng được mạch logic bất kỳ; 3. Sv3: Chỉ bỏ bớt được bộ AND hoặc bộ OR và bắt buộc phải để lại bộ đảo. 4. Sv4: Tuy nhiên, vẫn có thể xây dựng một tập các mạch logic cơ bản khác sao cho mọi mạch logic khác đều có thể xây dựng được từ các mạch cơ bản này. Theo bạn nhóm nào trong 4 nhóm sau đúng? Câu trả lời đúng là: Sv1, Sv3 và Sv4 
+
+
+ 
+ 
+ 
+BÀI 4: BIỂU DIỄN THÔNG TIN TRONG MÁY TÍNH
+1.	Sau đây là một số ý kiên sinh viên đưa ra về lý do dùng số dấu phảy động. Điều nào sai Để tiết kiệm bộ nhớ  
+2.	Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán, là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. 
+Dữ liệu số giấy chứng minh thuộc loại Văn bản
+Dữ liệu tên thuộc loại Văn bản
+Dữ liệu tuổi thuộc loại: Số 
+Dữ liệu tình trạng gia đình thuộc loại Logic
+Dữ liệu ảnh thuộc loại Đa phương tiện
+3.	
+4.	Người ta lưu hồ sơ đăng ký xe máy bằng máy tính trong đó có các mục tên chủ xe, ngày sinh, địa chỉ, số khung, số máy, biển số, dung tích xy lanh, hãng sản xuất, kiểu xe. 
+Dữ liệu biển số thuộc loại nào Văn bản
+5.	Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu là đoàn viên thuộc loại: Logic
+6.	Có thể kết hợp cả hai phương pháp điều chế để mã hoá tín hiệu hay không: Có thể kết hợp điều pha và điều biên
+7.	Khi biểu diễn giá trị logic, có những ý kiến sau, ý kiến nào kém thuyết phục hơn cả Tuỳ theo các hệ thống dùng từ máy dài bao nhiêu 8 bít, 16 bít, 32 bít
+8.	Bảng chữ UNICODE theo kiểu dựng sẵn cho tiếng Việt sử dụng 2 byte. Bảng chữ này có khả năng thể hiện Nhiều hơn 256 ký tự
+9.	Tuyệt đại đa số các máy tính sử dụng cấu trúc địa chỉ hoá tới byte. Byte thường được dùng để lưu trữ một chữ. Gần đây người ta dùng nhiều đến UNICODE mà mỗi trang mã có thể dùng đến 2 byte cho một ký tự. Lý do nào là lý do xác đáng nhất với việc tạo ra UNICODE là: Tạo ra một bộ mã thống nhất toàn cầu trong đó mỗi quốc gia có quyền thừa hưởng các ký tự đã có cũng như có thể khai báo đủ các ký tự riêng liên quan đến bộ chữ của mình
+10.	Dữ liệu đa phương tiện là dữ liệu Là dữ liệu âm thanh hay hình ảnh
+11.	Chúng ta đã biết, chuẩn dấu phảy động IEEE 754 có những điều chỉnh so với kiểu dấu phảy động ban đầu. Phát biểu nào sai dưới đây: Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn số nguyên
+12.	Trong dữ liệu ảnh, màu được tạo từ các màu cơ bản nào: Đỏ Xanh dương và Xanh lá cây (Red Blue Green)
+13.	Điều tần là phương pháp mã hoá tín hiệu dựa trên: Tần số của sóng mang tín hiệu
+14.	Bản chất âm thanh là tín hiệu tương tự (analog) chứ không phải tín hiệu số (digital). Âm thanh khi đưa vào máy tính là loại nào Số 
+15.	Có những ý kiến sau về dùng số dấu phẩy động 
+Ý kiến 1. Số dấu phẩy động được dùng trong tính toán gần đúng. Với số dấu phẩy động, người ta chấp nhận sai số làm tròn có tính chất sai số tuyệt đối có thể là lớn nhưng sai số tương đối nhỏ. Còn khi cần tính toán đúng tuyệt đối vẫn phải dùng số dấu phẩy tĩnh 
+Ý kiến 2. Ý kiến 1 không có sức thuyết phục. Vì có thể tăng số bít để biểu diễn số là có thể biểu diễn chính xác được, không nên hy sinh độ chính xác vì lý do bộ nhớ. Chỉ cần dùng số dấu phẩy tĩnh là đủ. 
+Ý kiến 3. Với cùng một số lượng vùng nhớ thoả đáng, khoảng giá trị biểu diễn được của số dấu phẩy động lớn hơn rất nhiều so với biểu diễn số dấu phẩy tĩnh nên dùng số dấu phẩy động khi tính toán với các số lớn mà không cần tăng lượng bộ nhớ 
+Ý kiến 4. Ý kiến 3 không đúng vì với cùng một vùng nhớ n bit thì dù là số dấu phẩy động hay dấu phẩy tĩnh cũng đều chỉ thể hiện được đúng 2n mã khác nhau mà thôi. Hơn nữa vấn đề bộ nhớ không còn quan trọng vì bây giờ chi phí cho bộ nhớ rất rẻ. 
+Quan điểm nào đúng hơn cả trong 4 cặp ý kiến sau. Ý kiến 1 và ý kiến 3
+16.	Chúng ta đã biết, chuẩn dấu phảy động IEEE 754 có những điều chỉnh so với kiểu dấu phảy động ban đầu. Phát biểu nào dưới đây sai Số dấu phảy động theo chuẩn IEEE 754 đưa vào đặc tả riêng cho số khác 0
+17.	Số nguyên có biểu diễn được ở dưới dạng dấu phảy động được không Câu trả lời đúng là: Có
+18.	Âm thanh có thể mã hoá dưới dạng số được không Có
+
+
+179.  Ký hiệu phép phủ định logic là . Ta định nghĩa phép toán # của hai đại lượng logic x và y thông qua các phép nhân, cộng và phủ định theo công thức sau x #y = (  xy ) V (x  y). Kết quả phép toán 0 # 1 sẽ là Câu trả lời đúng là: 1 180.  Có bao nhiêu hàm đại số logic ba ngôi? Câu trả lời đúng là: 256. 
+182.  Phép toán kéo theo (x   y) nhận biểu diễn nào  câu trả lời đúng là : ( phủ định |X tuyển v Y)  183.  Chọn câu đúng và đầy đủ nhất về hệ hàm đầy đủ trong đại số Boole: Câu trả lời đúng là: Là hệ ba hàm nhân, cộng và phủ định logic 
+213.  Tính dừng của thuật toán được hiểu là Câu trả lời đúng là: Thuật toán phải quy định những điều kiện để đảm bảo tính toán phải dừng sau một số hữu hạn bước 
+
+BÀI 5: THUẬT TOÁN
+  
+1.	Cho thuật toán sau Bước 1. Cho S = 1, i = 1, u = 1, x Bước 2. Tính U:= U.x/i; S := S + U; i:=i+1 (các phép tính thực hiện đúng theo thứ tự) Bước 3. Nếu i <100 quay lại bước 2, nếu không chuyển xuống bước 4 Bước 4. Lấy output S Thuật toán này tính gì Tính ex theo khai triển Taylor đến số hạng thứ 100 
+2.	Cho thuật toán sau Bước 1. Cho S = 0, i = 1, u = 1, x Bước 2. Tính S := S + U; U:= -U.x2/((i+1)(i+2)); i:=i+2 Bước 3. Nếu i <100 quay lại bước 2, nếu không chuyển xuống bước 4 Bước 4. Lấy output S Thuật toán này tính gì: Tính sin x theo khai triển Taylor đến số hạng thứ 50             
+3.	Tính phổ dụng của thuật toán là Câu trả lời đúng là: Một thuật toán có thể ứng dụng cho nhiều input cùng loại 
+4.	Tính xác định của thuật toán có nghĩa là: Sau khi hoàn thành một bước (một chỉ dẫn), bước thực hiện tiếp theo hoàn toàn xác định  
+5.	Tính khả thi của thuật toán được hiểu là  Có thể thực hiện được 
+6.	Có một phương pháp tính gọi là Monter-Carlo để tính dựa vào các đặc trưng xác suất, người ta phải chế ra các số ngẫu nhiên. Mỗi khi yêu cầu, máy tính lại đưa ra một con số không dự đoán được trước. Có thể nói rằng bài toán đưa ra một số ngẫu nhiên có thuật toán vi phạm tính xác định không?: Không 
+7.	Đâu không phải là đặc trưng của thuật toán? : Thuật toán phải giải được mọi bài toán. 
+8.	Độ phức tạp của thuật toán không phụ thuộc vào? Tốc độ tính toán của máy tính thực hiện thuật toán. 
+9.	Trong một trường học đã có cơ sở dữ liệu (hồ sơ trên máy tính) của tất cả học sinh trong trường. Bài toán in ra danh sách học sinh của lớp x nào đó có input là gì. Có cả  "Danh sách học sinh của cả trường" và "Tên của lớp X" 
+10.	Một người viết chương trình chơi cờ vua. Bài toán chơi cờ có output là: Nước đi của máy và thời gian đi tương ứng với mỗi nước của máy 
+11.	Giả sử một thuật toán được xác định bằng một số các chỉ dẫn. Tính xác định của thuật toán là: Sau mỗi bước thực hiện một chỉ dẫn, với những input xác định, luôn xác định được duy nhất chỉ dẫn cần thực hiện tiếp theo  
+12.	Một người mê tín. Trước khi đi chơi bao giờ anh ta cũng lấy quyển Kiều và làm theo các bước như sau Bước 1. Hãy mở một trang bất kỳ Bước 2. Xem câu thơ thứ 5 Bước 3. Nếu câu này có chữ a thì đi, nếu không thì ở nhà Khẳng định nào đúng Quá trình trên không phải là một giải thuật vì vi phạm tính xác định 
+13.	Có người đề xuất cách giải bài toán cổ "Trăm trâu trăm bó cỏ. Trâu đứng ăn 5; trâu nằm ăn 3; trâu gia 3 con ăn 1. Hỏi mỗi loại trâu có bao nhiêu con?" như sau: Lần lượt thử số trâu đứng từ 0 đến 20 (vì không thể có quá 20 trâu đứng); với mỗi số đã chọn nhân với 5 tìm số cỏ đã bị ăn. Với mỗi số trâu đứng đã chọn thử với số trâu nằm từ 0 đến 33. Với mỗi số trâu nằm tính tổng số cỏ mà cả trâu đứng và trâu nằm đã ăn. Với mỗi số trâu đứng và trâu nằm đã chọn, lấy 100 trừ đi số trâu đứng và trâu nằm để tìm số trâu già. Lấy 100 trừ đi số cỏ mà trâu đứng và trâu nằm đã ăn để tìm số cỏ còn lại sau đó kiểm tra số trâu già có gấp 3 số cỏ còn lại. Nếu đúng tuyên bố nghiệm Nếu không tìm được bộ 3 số trâu đứng, trâu nằm, trâu già thoả mãn thì tuyên bố vô nghiệm: Quá trình mô tả trên là một giải thuật 
+14.	Có n gói hàng đáng lẽ phải nặng như nhau nhưng có một gói sai quy cách nhẹ hơn các gói khác. Một sinh viên đã viết giải thuật sau để tìm gói hàng này bằng cách dùng cân đĩa theo nguyên lý thăng bằng. Bước 0. Lấy một cái rổ bỏ tất cả hàng vào Bước 1. Nếu rổ chỉ có 1 gói thì đó chính là gói hàng khuyết. Dừng quá trình tìm. Nếu  không thực hiện bước 2 Bước 2. Chia số hàng trong rổ thành 3 đống 1,2,3 trong đó đống 1 và đóng 2 có số lượng bằng nhau rồi làm tiếp bước 3. Bước 3. Đặt lên cân đĩa hai nhóm 1 và 2. Nếu cân thăng bằng thì bỏ nhóm này đi và để vào rổ đống hàng thứ 3. Nếu cân không thăng bằng thì bỏ đống nhẹ hơn vào rổ rồi quay về bước 1. Câu trả lời đúng là: Giải thuật này đúng. Không cần phải sửa 
+15.	Xác đinh Input của bài toán tìm tất cả các số nguyên tố nhỏ hơn một số cho trước Câu trả lời đúng là: Số cho trước Có người đề xuất cách giải bài toán sau "Vừa gà vừa chó; bó lại cho tròn; Có N con; M chân chẵn. Hỏi có mấy gà mấy chó?" như sau: Bước 1. Lấy số chó giả định là 1 Bước 2. Nhân số chó với 4 để tìm số chân chó Bước 3. Lấy M trừ đi chân chó để tìm số chân gà Bước 4. Chia số chân gà cho 2 để tìm số gà Bước 5. Kiểm tra tổng số gà + số chó nếu bằng N thì dừng và đó là kết quả. Nếu không thực hiện bước 6 Bước 6. Tăng số chó lên 1 và chuyển tới bước 2 Khẳng định nào đúng: Quá trình trên đúng là một giải thuật nhưng chưa đầy đủ vì cần thêm các buớc xử lý những trường hợp M, N chưa thích hợp
+16.	Xét các cách tìm USCLN của hai số tự nhiên m và n qua các giải thuật sau đây 1. Cách 1. Chỉ dẫn 1: Phân tích m và n thành các thừa số nguyên tố như sau Chỉ dẫn 2: Tính tích của các uớc số chung với số mũ nhỏ nhất 2. Cách 2 Chỉ dẫn 1: Nếu m = n thì USCLN(m,n) lấy là m. Nếu không thực hiện chỉ dẫn 2 Chỉ dẫn 2: Nếu m > n thì bớt m một lượng n và quay lại thực hiện chỉ dẫn 1. Nếu không thực hiện chỉ dẫn 3 Chỉ dẫn 3:  Bớt n một lượng m và quay lại thực hiện chỉ dẫn 1 3. Cách 3 Chỉ dẫn 1: Nếu m = n thì USCLN(m,n) lấy là m. Nếu không thực hiện chỉ dẫn 2 Chỉ dẫn 2: Nếu n > m thì tráo đổi giá trị m và n và thực hiện chỉ dẫn 3 Chỉ dẫn 3:  Thay m bởi số dư của phép chia m cho n sau đó quay lại thực hiện chỉ dẫn 1 Nếu tính độ phức tạp tính toán của giải thuật là số phép tính số học phải thực hiện thì giải thuật nào tốt nhất Cách 3 
+BÀI 6: NGÔN NGỮ LẬP TRÌNH
+1.	Đánh dấu vào câu sai: Để máy tính có thể chạy được các chương trình trên các ngôn ngữ nói trong A, B, C đều phải cần một chương trình dịch dịch ra dưới dạng máy tính có thể thực hiện được
+2.	258.  Quá trình dịch chỉ tạo ra các mô đun đối tượng. Để có một chương trình duy nhất, hoàn chỉnh và có thể chạy được còn cần phải liên kết (link). Trong các phát biểu sau, phát biểu nào sai: Quá trình liên kết không bao giờ có lỗi  
+3.	251.  Ngôn ngữ lập trình là một hệ thống ký hiệu và các quy tắc diễn đạt thuật toán để máy tính có thể hiểu được. Cách diễn đạt bằng sơ đồ khối có thể coi là một ngôn ngữ lập trình hay không: Không  
+4.	232.  Có thể hiểu lỗi ngữ nghĩa là lỗi gây ra những tình trạng làm cho máy tính không thể chạy bình thường hoặc làm cho máy chạy sai ý định. Có phải lỗi ngữ nghĩa nào cũng được máy tính tự phát hiện khi chạy tương tự như lỗi chia cho 0 hay không. Không 
+5.	253.  Ngôn ngữ lập trình là một hệ thống ký hiệu và các quy tắc diễn đạt thuật toán để máy tính có thể hiểu được. Cách diễn đạt thuật toán bằng chỉ dẫn có thể coi là một ngôn ngữ lập trình hay không Không 
+6.	Bàn về các loại ngôn ngữ lập trình có các ý kiến sau đây. Theo bạn ý kiến nào xác đáng nhất: Tuỳ từng trường hợp. Nói chung nên dùng ngôn ngữ bậc cao phù hợp với lĩnh vực ứng dụng vì hiệu suất phát triển phần mềm là cao nhất. Chỗ nào cần tối ưu mã chương trình thì mới dùng hợp ngữ. Nói chung không cần sử dụng ngôn ngữ máy vì hợp ngữ hầu như đã thể hiện chính ngôn ngữ máy  
+7.	Ngôn ngữ lập trình là: Là quy ước để diễn tả thuật toán để máy tính có thể thực hiện đựợc trực tiếp hay qua một biến đổi có thể tự động hoá được  
+Là phương tiện diễn đạt các giải thuật có thể chuyển giao cho máy tính thực hiện  
+8.	Chọn phương án tốt nhất trong định nghĩa về hợp ngữ (assembly). Hợp ngữ là loại ngôn ngữ: Là ngôn ngữ có các lệnh được viết trong mã chữ nhưng về cơ bản mỗi lệnh tương đương với một một lệnh máy. Để chạy được cần dịch ra ngôn ngữ máy
+9.	Các phần mềm sau đây, phần mềm nào là chương trình dịch Turbo Pascal hay Microsoft C
+10.	Định nghĩa nào xác đáng nhất về ngôn ngữ bậc cao (ngôn ngữ thuật toán): Ngôn ngữ dưới dạng văn bản thể thiện thuật toán theo những quy ước không phụ thuộc vào các máy tính cụ thể  
+11.	Câu nào đúng khi nói về hợp ngữ? Hợp ngữ có thể viết lệnh dưới dạng mã chữ tiếng Anh.
+12.	Mục đích của phân tích từ vựng là: Phát hiện ra các đối tượng để lập danh mục các đối tượng  
+13.	Trong các ý kiến sau, ý kiến nào xác đáng hơn cả: Tuỳ từng trường hợp, nhưng nói chung nên dùng ngôn ngữ bậc cao để tăng hiệu suất phát triển phần mềm
+14.	Câu nào đúng nhất trong định nghĩa một ngôn ngữ lập trình nói chung: Là ngôn ngữ diễn đạt giải thuật để có thể giao cho máy tính thực hiện
+15.	Điều nào là đúng trong các kết luận sau khi trả lời câu hỏi "Sự khác nhau giữa biên dịch (compiler) và thông dịch (interpreter) là" Thông dịch không cần tạo mã mà chạy đến lệnh nào thì tạo các lệnh để thi hành còn biên dịch phải dịch trước toàn bộ chương trình sang nhị phần thì mới có thể chạy được
+16.	Ngôn ngữ máy là: Là ngôn ngữ thể hiện các chương trình mà mỗi chương trình là một dãy lệnh máy trong hệ nhị phân  
+17.	Mục đích của phân tích cú pháp là Phát hiện ra các lỗi không đúng quy cách của chương trình
+18.	Câu nào sau đây mô tả không chính xác về chương trình dịch: Trong quá trình dịch sẽ phát hiện lỗi ngữ nghĩa của chương trình nguồn.  
+19.	Có các khẳng định sau đây về chương trình dịch (comliler), khẳng định nào sai: Chương trình dịch giúp tìm ra tất cả các lỗi của chương trình 
+BÀI 7: HỆ ĐIỀU HÀNH
+1.	Khẳng định nào là sai khi nói về cơ chế plug & play. Tính năng plug & play là cơ chế của hệ điều hành nhằm: Mặc dù trước đây đã cơ chế này đã được sử dụng khá thịnh hành cho các máy tính lớn (mini, mainframe) từ thập kỷ 80
+2.	Câu nào đúng khi nói về cơ chế plug & play của hệ điều hành? Khả năng phát hiện và cài đặt chương trình điều khiển thiết bị ngoại vi mới ở mức độ tự động hóa cao.  
+3.	Khẳng định nào là đúng khi nói về cơ chê plug & play. Tính năng plug & play là cơ chế của hệ điều hành nhằm: Phát hiện ngoại vi mới để tự cài đặt chương trình điều khiển phù hợp và nếu không làm được thì cảnh báo người sử dụng
+4.	Bạn đã cài đặt một đĩa hoàn toàn mới và bạn muốn định dạng nó. Mục đích của công việc định dạng là gì: Tạo một đĩa để đọc và chấp nhận dữ liệu
+5.	Trong hệ điều hành DOS, người ta có thể chạy các chương trình thường trú. Một khi chạy, các chương trình thường trú sẽ không tự dừng mà sẽ cùng chạy với cả các chương trình khác. Vậy DOS có phải là hệ điều hành đa nhiệm không Không  
+6.	Khẳng định nào sai. Các chức năng của hệ điều hành gồm có: Quản lý giao tiếp với các máy tính khác qua các mạng để tránh virus lây lan 
+7.	Khẳng định nào sai: Bộ nhớ ảo chỉ dùng với máy tính trước đây. Ngày nay, bộ nhớ trong đã rẻ và đủ lớn nên không cần dùng bộ nhớ ảo như trước nữa 
+8.	Hệ điều hành là: Phần mềm quản lý các thiết bị, quản lý công việc xử lý, quản lý dữ liệu và thực hiện giao tiếp người - máy hoặc máy – máy 
+9.	Điều gì đúng khi nói về hệ điều hành đa nhiệm?: Các chương trình được xử lý từng phần luân phiên (cùng tiến triển). 
+10.	Cái tên nào sau đây không phải là một hệ điều hành?: UPS 
+11.	Trong chế độ phân trang, một chương trình được cấp một số trang nhớ, kích thước của các trang nhớ này ra sao?: Bằng nhau. 
+12.	Ý nào dưới đây là đúng: Hệ điều hành máy tính cá nhân: là phần mềm phải có để máy tính cá nhân có thể hoạt động 
+13.	Phát biểu nào sau đây là ĐÚNG: GUI là viết tắt của Graphic User Interface.  
+14.	Hệ điều hành thường được sử dụng với các máy tính lớn (mini, mainframe) thường là: UNIX  
+15.	Trong cách hệ điều hành sau, hệ nào là đơn nhiệm: DOS 
+16.	Hệ điều hành bắt đầu xuất hiện ở máy tính thế hệ nào: 2 
+17.	Cơ chế spooling cho phép: Giảm thời gian kết thúc xử lý 
+18.	Phần mềm Windows, Linux và OS2 có đặc điểm gì chung: Tất cả đều là hệ điều hành  
+19.	Chọn câu trả lời thích hợp nhất: “Tại sao phải định kì sử dụng công cụ chống phân mảnh đĩa cứng: để tốc độ truy xuất dữ liệu từ đĩa cứng nhanh hơn  
+20.	Khẳng định nào không chính xác: Hệ điều hành đa nhiệm (multi-task) là hệ điều hành đa người sử dụng (multi-user) 
+21.	Khẳng định nào không chính xác: DOS là hệ điều hành phân chia thời gian 
+22.	Câu nào đúng khi nói về hệ điều hành DOS?: Là hệ điều hành đơn chương trình.  
+23.	Lợi ích của GUI (Graphic User Interface) là gì: GUI cho phép dùng con chuột để thao tác với máy tính 
+24.	Trong các hệ điều hành sau, hệ điều hành nào là đa người dùng Windows 
+25.	Trong các máy tính ngày nay, có còn dùng cơ chế spooling nữa hay không: Có 
+26.	Cơ chế plug and play là cơ chế: Có cơ chế tự động phát hiện các thiết bị mới và tự động cảnh báo hoặc bổ sung chương trình điều khiển cho thiết bị mới  
+27.	Mục đích của xử lý theo lô là: Cả "Để người sử dụng có thể gửi cả một gói công việc một lần để đỡ tốn thời gian" và "Để liên kết được các công việc với nhau , công việc truớc có thể để lại dữ liệu và trạng thái xử lý cho công việc sau tiếp tục thực hiện" 
+28.	Trong những hệ điều hành sau, hệ nào không phải loại đa nhiệm (multitask) DOS  
+29.	Trong những hệ điều hành sau, hệ nào là loại nhiều người dùng (multiuser) UNIX 
+30.	Khẳng định nào đúng nhất. Một hệ điều hành bất kỳ có thể Quản lý thiết bị , chương trình và dữ liệu trong quá trình làm việc và cung cấp môi trường giao tiếp giữa người sử dụng và máy tính 
+BÀI 8: PHẦN MỀM
+1.	Chọn câu thích hợp để phân biệt giữa phần mềm ứng dụng và phần mềm hệ điều hành: Phần mềm ứng dụng cần phần mềm hệ điều hành để chạy 
+2.	Đâu là một ví dụ về phần mềm máy tính: Hệ điều hành 
+3.	Trình duyệt (Browser) dùng để truy nhập WEB là loại phần mềm nào: Ứng dụng 
+4.	Hoạt động nào không thuộc công việc bảo trì phần mềm: Nâng cấp hệ điều hành để phần mềm chạy ổ định hơn 
+5.	Hoạt động nào không thuộc công việc bảo trì phần mềm: Thay đổi mô hình toán học để thuật toán xử lý hiệu quả hơn 
+6.	Hoạt động nào không thuộc công việc bảo trì: Nâng cập thiết bị để tốc độ xử lý cao hơn 
+7.	Hoạt động thiết kế nào không thuộc công việc phát triển phần mềm: Thiết kế mạng máy tính  
+8.	Hoạt động nào không hợp lý trong giai đoạn viết phần mềm: Kiểm thử mô hình 
+9.	Câu nào chưa đúng trong số các câu sau?: Phần mềm nguồn mở - Open source software: công bố một phần mã nguồn để mọi người tham gia phát triển 
+10.	Phần mềm là gì: Là chương trình, cách tổ chức dữ liệu (cấu trúc dữ liệu) và tài liệu về chúng 
+11.	Theo bạn, các phần mềm sau thuộc nhóm phần mềm nào: MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer: Nhóm phần mềm ứng dụng 
+12.	Một số phần mềm kiểm tra virus chạy trong chế độ thường trực. Mỗi khi chạy một chương trình lấy xuống từ Internet hay chạy một file bị nhiễm một loại virus nào đó nó liền dừng lại cảnh báo. Phần mềm này có được coi là phần mềm trí tuệ nhân tạo hay không: Không 
+13.	Tuyên bố nào đúng Câu trả lời đúng là: MicroSoft C là một phần mềm phát triển  316.  Hoạt động nào không thuộc công việc trong giai đoạn kiểm thử: Kiểm thử mô hình 
+14.	Khi mua thiết bị ngoại vi cho máy tính, thường có các đĩa CD đi kèm chứa chương trình điều khiển thiết bị đó. Các chương trình điều khiển thiết bị thuộc loại phần mềm nào: Phần mềm hệ thống  
+15.	Phát biểu nào sau đây không đúng?: Phần mềm ứng dụng bao gồm hệ điều hành, các chương trình điều khiển thiết bị...  
+16.	Trong 4 phần mềm sau đây, phần mềm nào có thể thuộc loại tiện ích: Sao lưu dữ liệu vào ổ đĩa cứng dự phòng  
+17.	Chọn câu đúng và đầy đủ nhất về khái niệm phần mềm: Là chương trình, cách tổ chức dữ liệu (cấu trúc dữ liệu) và tài liệu về chúng 
+18.	Hệ điều hành là: Phần mềm hệ thống 
+19.	Phần mềm nào trong số các phần mềm sau là phần mềm nhúng: Từ một mạch có bộ vi xử lý điều khiển bảng quảng cáo 
+20.	Tại sao hàng năm luôn xuất hiện các phiên bản phần mềm mới? Nguyên nhân: Nhà sản xuất nâng cấp sản phẩm của mình. 
+21.	Bạn có thể đã biết phần mềm thi trắc nghiệm online. Trên màn hình sẽ có các câu hỏi với nhiều phương án lựa chọn. Người thi sẽ đánh dấu vào ô thích hợp. Khi hết thời gian người thi sẽ được công bố số điểm đã đạt được. Phần mềm này có được coi là phần mềm trí tuệ nhân tạo hay không: Không 
+22.	Khi ghi file trên đĩa, có cơ chế thu hồi các vùng đĩa khi xóa file và các vùng đĩa đó được phân phối lại cho các file khác. Điều này dẫn đến file có thể bị ghi trên nhiều vùng đĩa rời nhau làm việc truy cập file bị chậm. Trên Windows có phần mềm dồn đĩa (defragment), cho phép dồn các phân mảnh của file vào các vùng kế tiếp nhau để tăng hiệu quả truy cập đĩa. Phần mềm này là loại phần mềm nào. Phần mềm tiện ích  
+23.	Phần mềm nào sau đây có thể đọc các file định PDF?: Foxit Reader.  
+31.  Các phần mềm MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer thuộc nhóm phần mềm nào?: Nhóm phần mềm ứng dụng. 
+Chức năng của bộ lặp (repeater) là gì: Tiếp nhận dữ liệu, khôi phục tín hiệu để chống làm hỏng tín hiệu nhằm mở rộng quy mô địa lý của mạng 
+
+BÀI 9: MẠNG MÁY TÍNH
+1.	Mô hình client-server là mô hình xử lý: Máy chủ (server) cung cấp các dịch vụ theo yêu cầu từ máy tính khác gọi là máy trạm. Các máy trạm có thể xử lý phối hợp với các xử lý khác trên máy chủ.
+2.	Chọn phát biểu kém thuyết phục nhất trong các phát biểu sau: Lý do quan trọng nhất cần nối mạng vì cần sử dụng chung các thiết bị phần cứng. 
+3.	Điểm nào sai khi so sánh hoạt động của cầu (bridge) và chuyển mạch (switch): Các gói tin chuyển từ cổng nọ sang cổng kia khi không thấy máy cần chuyển tin nằm trên cùng một cổng 
+4.	Định nghĩa đúng nhất về mạng máy tính: Là tập các máy tính được nối với nhau theo các đường truyền vật lý và tuân theo một quy ước truyền thông. 
+5.	Cáp quang nào có khả năng truyền xa hơn: Cáp quang đơn mode 
+6.	Chọn câu trả lời đầy đủ nhất về mô hình cộng tác theo kiểu Client/Server: Các máy khách đưa ra yêu cầu, máy chủ xử lý và trả lại kết quả cho máy khách 
+7.	Trong danh sách dưới đây, đâu là thiết bị mạng?: Hub 
+8.	Chuyển mạch (switch) khác bộ cắm nối tập trung HUB ở điểm nào: Cắt lan truyền tín hiệu giữa các cổng khi không có nhu cầu nối giữa các cổng 
+9.	Mạng máy tính là: Các máy tính được kết nối với nhau qua các kênh truyền tín hiệu vật lý để chia sẻ tài nguyên và liên lạc/thông tin
+10.	Cáp nào đi với HUB để cắm nối theo tô pô hính sao: Cáp xoắn 
+11.	Trong các loại cáp truyền sau cáp truyền nào cho băng thông cao nhất Cáp quang 
+12.	Trong các lý do cần có mạng máy tính, lý do nào thiếu cơ sở nhất: Liên lạc 
+13.	Điều gì đúng khi nói về địa chỉ IPv4?: Tất cả các đáp còn lại. 
+14.	Khẳng định nào đúng. Giao thức cảm nhận sóng mang đa truy nhập CSMA cho phép: Các máy tính có thể tham gia truyền thông khi phát hiện thấy đường truyền rỗi 
+15.	Thông số nào của cấu hình máy ảnh hưởng đến khả năng hoạt động đa nhiệm?: Tất cả các đáp án còn lại. 
+16.	Thành phần/thiết bị nào sau đây không phải là thiết bị đầu-cuối?: Cáp mạng. 
+17.	Mạng cục bộ là mạng: Mạng trong phạm vi nhỏ, các máy chia sẻ trực tiếp đường truyền chung, không dùng thiết bị dẫn đường 
+18.	Mạng WAN: Cho phép kết nối các mạng LAN nhỏ lại thành một mạng duy nhất. 
+19.	Thiết bị cho phép cắm nối các dây cáp mạng của máy tính theo tô pô hình sao là loại nào: Hub và Switch 
+20.	Dưới góc độ địa lý, mạng máy tính được phân loại thành: Mạng cục bộ, mạng diện rộng, mạng toàn cầu. 
+21.	Điểm khác biệt quan trọng giữa bộ tập trung Hub và bộ chuyển mạch Switch là gì?: Bộ chuyển mạch truyền tin theo đúng địa chỉ nhận chứ không lan tỏa như bộ tập trung. 
+22.	Khẳng định nào sai đối với giao thức mạng cục bộ CSMA/CD: Các máy tính có thể tham gia truyền thông khi phát hiện thấy không quá một máy tính khác đang tham gia truyền thông 
+23.	Hãy cho câu trả lời đúng và đầy đủ nhất về mạng máy tính: Là tập các máy tính được nối với nhau theo các kênh truyền dữ liệu và tuân theo những quy ước truyền thông để các máy có thể hiểu các dữ liệu truyền cho nhau 
+24.	Tốc độ truy cập mạng được xác định theo đơn vị: kbps. 
+25.	Mạng rộng là mạng: Hình thành từ việc liên kết các mạng cục bộ hay các máy tính độc lập thông qua các các mạng viễn thông 
+Phải kết nối qua các hệ thống dẫn đường 
+Hình thành từ việc liên kết các mạng cục bộ thông qua các thiết bị kết nối 
+
+26.	Mô hình mạng ngang hàng peer-to-peer là mô hình xử lý mà: Mọi máy đều có thể là máy chủ nếu trên đó cho phép chia sẻ thiết bị và dịch vụ cho các máy khác 
+
+BÀI 10: MẠNG INTERNET
+
+
+1.	Từ trình duyệt trong phần URL một người gõ vào dòng sau http://vnu.edu.vn/uet/index.htm. Người này chờ kết quả nào: Mở trang WEB index.htm trong đường dẫn uet của máy chủ có tên là vnu.edu.vn 
+2.	Máy tính cung cấp các dịch vụ cho các máy tính cá nhân gọi là Server (máy chủ) 
+3.	Dịch vụ nào cho phép sử dụng máy tính từ xa: Telnet
+4.	DNS (Domain name service) là giao thức để "Từ địa chỉ dưới dạng tên miền chuyển thành địa chỉ IP" và "Đọc địa chỉ cho dễ" 
+5.	Diễn đàn (forum) khác với thư điện tử (Email) ở chỗ nào: Bạn phải chỉ định đối tượng nhận tin 
+Đối tượng nhận tin được người gửi chỉ định trước 
+
+6.	Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà bạn không nhận biết ra, bạn sẽ xử lý thế nào trong tình huống này để đảm bảo an toàn?: Quét tập tin này bằng chương trình chống virus 
+7.	Địa chỉ 172.16.3.63 là địa chỉ: Lớp B 
+8.	Trong các đáp án sau, đáp án nào không thể là một địa chỉ IP : 34.2.264.12 
+9.	Email là viết tắt của: Electronic Mail 
+10.	Trong các thể hiện sau đây, cái nào không phải là một địa chỉ IP 168.315.29.123 
+11.	Lợi thế của mua hàng trực tuyến so với mua hàng bình thường ở cửa hàng là gì? Có thể mua hàng trong suốt 24h trong một ngày. 
+12.	Định nghĩa nào chính xác nhất về mạng Internet về phương diện tin học: Là mạng rộng có quy mô toàn cầu hoạt động dựa trên giao thức TCP/IP 
+13.	URL (Uniform Resource Locator) dùng để chỉ định cách thức liên hệ với các tài liệu ở các máy trên mạng Internet. URL chứa: Cả "Giao thức ứng dụng", "Địa chỉ máy trên mạng" và "Đường dẫn của file và tham số nếu gọi ứng dụng" 
+14.	Người ta nói Internet là mạng chạy theo giao thức TCP/IP. Giao thức IP (Internet Protocol) liên quan tới: Cả "Cơ chế định địa chỉ cho các máy tham gia mạng" và "Cơ chế dẫn đường cho các gói tin thông qua các máy dẫn đường (router)" 
+15.	Thuật ngữ “Thương mại điện tử” nghĩa là: Mua và bán hàng qua mạng máy tính Internet. 
+16.	Địa chỉ 192.168.3.63 là địa chỉ: Lớp C 
+17.	Khi nói về ưu điểm của làm việc từ xa (Tele-working), ý nào sau đây không đúng?: Tăng cường sự liên hệ trực tiếp 
+18.	Thuật ngữ kỹ thuật trong mua và bán hàng qua mạng Internet là gì Thương mại điện tử (E-commerce) 
+19.	Internet là: Mạng rộng 
+20.	Máy tính nối và cung cấp các dịch vụ cho các máy PC khác gọi là: Server (máy chủ)
+21.	Dịch vụ nào phổ biến nhất trên Internet hiện nay: WWW 
+
+1.	Tại sao không nên sao chép một trò chơi CD Rom mà bạn không có giấy đăng ký bản quyền: Bởi vì đó là vi phạm bản quyền 
+2.	Quyền tác giả bao gồm quyền nhân thân và quyền sở hữu. Điều nào sau đây không phải quyền sở hữu đối với phần mềm máy tính: Công bố phần mềm 
+3.	Trong công việc nào dưới đây, con người làm việc tốt hơn máy tính: Nhận dạng các sự vật 
+4.	Khi sử dụng hồ sơ điện tử thay cho hồ sơ giấy, ví dụ như bảng các câu hỏi trực tuyến. Bạn thấy ưu điểm nào sau đây nổi bật nhất?: Việc tiêu thụ giấy giảm.
+5.	Khi một cơ quan mua một chương trình máy tính, Trong những trường hợp nào chương trình này có thể được cài đặt miễn phí nội trong cơ quan đó: Khi có sự đồng ý bản quyền cho phép điều này. 
+6.	Vấn đề sức khỏe phổ biến của người sử dụng máy tính là các chấn thương cổ tay. Nguyên nhân của chấn thương thông thường là gì?: Sử dụng bàn phím lâu. 
+7.	Điều nào là không đúng trong các cơ chế phát tán của sâu (worm) Chương trình gây nhiễm tự tìm địa chi mail có trong hộp thư để gửi theo email dưới dạng các file đính kèm có hình thức thuận lợi để người nhận thư mở nó 
+8.	Điều nào là không đúng trong các cơ chế phát tán của sâu (worm) Tạo ra các link để bẫy người dùng nạp về 
+9.	Virus máy tính: Là một chương trình máy tính. 
+10.	Cơ chế lây của virus boot là gì: Gây nhiễm trong đoạn mã khởi động của đĩa 
+11.	Quyền tác giả bao gồm quyền nhân thân và quyền sở hữu. Điều nào sau đây không phải quyền nhân thân: Hủy bỏ tác phẩm, tuyên bố không chịu trách nhiệm về mọi quyền lợi, nghĩa vụ và không cho phép ai được sử dụng. 
+12.	Điều nào không phải là tấn công từ chối dịch vụ: Tạo virus ở các máy của người truy cập để ngăn chặn việc truy cập tới dịch vụ 
+13.	Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình hiện ra các thông báo kiểm tra bộ nhớ tốt, sau đó màn hình chuyển sang tối om. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Đèn trong phòng vẫn sáng. Điều gì có khả năng: Máy bị virus hay hỏng đĩa khởi động 
+14.	Đâu là điểm giống nhau giữa Virus và Worm: Có cơ chế để lây nhiễm  
+15.	Điều gì mà tất cả các Virus máy tính đều có thể thực hiện?: Tự nhân bản.  
+16.	Điểm nào không phải là hành vi tấn công từ chối dịch vụ (Denial of service attack): Tấn công các thiết bị đảm bảo cho hoạt động của máy chủ dịch vụ để khi các thiết bị này bị khống chế thì máy chủ không còn an toàn nữa.  
+17.	Đâu là một ví dụ của chính sách mật khẩu tốt Không bao giờ cho người khác biết mật khẩu của bạn 
+18.	Thư rác (spamming) là gì Gửi thư quảng cáo hoặc thông báo với một số lượng lớn không được sự đồng ý trước của người nhận 
+19.	X và Y trước đây cùng phát triển một phần mềm do X là người chủ trì. Sau nay hai người lập ra hai công ty khác nhau nhưng Y đăng ký bản quyền trước. Khi đó Y có vi phạm bản quyền không: Không 
+20.	Hoạt động nào không phải là của Trojan: Xóa các file dữ liệu của người dung
+21.	Câu nào dưới đây không đúng: Vi rút máy tính lây nhiễm qua dùng chung máy tính 
+22.	Tại sao máy tính xách tay có thể gây rủi ro cho an ninh của công ty?: Bởi vì những người không được phép có thể đọc được những thông tin mật nếu máy tính bị lấy cắp. 
+23.	4 điểm dưới đây là tính năng của vius. Điểm nào là điểm khác nhau giữa virus máy tính và sâu máy tính (computer worm): Phải sống nhờ vật chủ như file hay vùng thông tin hệ thống của đĩa và tự thi hành để nhân bản 
+24.	Một công ty sử dụng phần mềm mã nguồn mở cho khách hàng của mình. Ứng xử nào của công ty là hợp lý: Được thu tiên đối với những phát triển thêm và công dịch vụ 
+25.	Ai không phải là tác giả của phần mềm: Người không làm nhưng mua quyền sở hữu phần mềm 
+26.	Tấn công từ chối dịch vụ là gì: Gửi thông báo nhiều đến mức làm hệ thống tê liệt vì quá tải 
+27.	Điều nào sai: Tác giả có thể cho phép người khác đứng tên tác giả 
+28.	Cơ chế lây của virus file là gì: Gây nhiễm vào một file nào đó, khi thi hành, nó sẽ chiếm quyền ghi file của hệ điều hành để sau đó mỗi khi chạy một ứng dụng nào đó, file ứng dụng đó được ghép thêm mã của virus 
+29.	Một người mua một bản (licence) một phần mềm nào đó nhưng anh ta có hai máy tính. Nếu anh ta cài trên cả hai máy chỉ cho chính bản thân dùng. Theo thông lệ quốc tế, việc đó có là bất hợp pháp không: Không 
+30.	Điều nào sai khi nói về các đặc điểm của phần mềm virus: Virus chỉ hoạt động trên hệ điều hành Windows 
+31.	Công ty X mua một chương trình máy tính, chương trình này sẽ được cài đặt miễn phí trong nội bộ công ty trong trường hợp: Khi bản quyền phần mềm cho phép điều này. 
+32.	Nếu một máy tính bị nghi ngờ là nhiễm virus thì cách thức tốt nhất để kiểm tra và diệt virus là gì? Cài đặt một chương trình chống virus, quét virus các ổ đĩa của máy tính và cho chương trình này loại bỏ virus. 
+33.	Lời khuyên khi sử dụng mật khẩu máy tính là: Không bao giờ cho người khác biết mật khẩu của bạn
+34.	Mục đích chủ yếu của chính sách an ninh thông tin của một tổ chức là gì Theo dõi và kiểm soát thông tin, dữ liệu nhạy cảm 
+35.	Trong những công việc dưới đây, công việc nào con người làm tốt hơn máy tính Nhận dạng các sự vật. 
+
