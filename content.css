@@ -1,0 +1,29 @@
+/* Same CSS as before, or customize as needed */
+#textStoreContainer {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 10000;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#textStoreInput {
+  width: 300px;
+  height: 150px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+#textStoreInput.pasting {
+  color: white;
+  background-color: white;
+}
+
+.collapsed {
+  display: none;
+}
